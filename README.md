@@ -1,1 +1,1 @@
-# bem-nikeproduct
+demo: https://alena36.github.io/bem-nikeproduct/
